@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Examples004_Dif/1.0.0": {
+      "Examples004_Div/1.0.0": {
         "runtime": {
-          "Examples004_Dif.dll": {}
+          "Examples004_Div.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Examples004_Dif/1.0.0": {
+    "Examples004_Div/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
